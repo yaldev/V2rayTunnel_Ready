@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Xray 1 (GCP)",
+    "address": "iz1-166370427322.us-central1.run.app",
+    "port": 443,
+    "protocol": "VLESS",
+    "uuid": "3204acfd-5460-48c2-8c7f-7d4646358610",
+    "sni": "iz1-166370427322.us-central1.run.app",
+    "host": "iz1-166370427322.us-central1.run.app",
+    "path": "/arjienx-vless"
+  },
+  {
+    "name": "Xray 2 (GCP)",
+    "address": "iz2-166370427322.us-central1.run.app",
+    "port": 443,
+    "protocol": "VLESS",
+    "uuid": "3204acfd-5460-48c2-8c7f-7d4646358610",
+    "sni": "iz2-166370427322.us-central1.run.app",
+    "host": "iz2-166370427322.us-central1.run.app",
+    "path": "/arjienx-vless"
+  }
+]
